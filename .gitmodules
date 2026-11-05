@@ -1,0 +1,8 @@
+[submodule "fieldpro-frappe"]
+	path = fieldpro-frappe
+	url = https://github.com/karani-gk/fieldpro-frappe.git
+	branch = main
+[submodule "fieldpro-nextjs"]
+	path = fieldpro-nextjs
+	url = https://github.com/karani-gk/fieldpro-nextjs.git
+	branch = main
